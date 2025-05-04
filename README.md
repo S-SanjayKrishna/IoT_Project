@@ -56,7 +56,8 @@ The motor turns off.
 
 An email alert is sent to the configured user email.
 
-Features
+Features:
+
 ✔️ Automated water motor control
 
 ✔️ Email alerts for low water level
