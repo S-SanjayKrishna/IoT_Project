@@ -16,6 +16,14 @@ Jumper Wires, Breadboard
 
 Power Supply (External 5V or USB)
 
+Assets/project1.jpeg
+
+Assets/project2.jpeg
+
+Assets/laptop.jpeg
+
+Assets/mail.jpeg
+
 Working Principle
 The Ultrasonic Sensor detects the water level inside a tank or container.
 
@@ -35,10 +43,7 @@ Circuit Diagram
 
 A schematic showing ESP32, relay, ultrasonic sensor, and pump connections.
 
-(Upload your actual image with this filename or update the path accordingly.)
-
-
-
+Assets/circuitdiagram.jpeg
 
 Open the Arduino IDE.
 
