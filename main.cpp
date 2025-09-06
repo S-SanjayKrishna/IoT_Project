@@ -10,7 +10,7 @@ const char* password = "sskwifi123";
 #define SMTP_HOST       "smtp.gmail.com"
 #define SMTP_PORT       465
 #define AUTHOR_EMAIL    "230701288@rajalakshmi.edu.in"
-#define AUTHOR_PASSWORD "stjmvdmvrpztnvan"
+#define AUTHOR_PASSWORD 
 #define RECIPIENT_EMAIL "230701288@rajalakshmi.edu.in"
 
 // Pins
@@ -96,3 +96,4 @@ void loop() {
   }
   delay(1000);
 }
+
